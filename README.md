@@ -1,2 +1,2 @@
 # LS2TC
-This is a spectral to color temperature project and could be converted to CMYK colors by JPanel.
+This is a project for spectrum to color temperature and could be converted to CMYK colors by JPanel.
